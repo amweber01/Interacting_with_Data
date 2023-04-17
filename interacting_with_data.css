@@ -1,0 +1,12 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body { 
+    font: 100% georgia, sans-serif;
+    line-height: 1.8em;
+    color: #555753; 
+    height:100%
+}
