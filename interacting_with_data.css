@@ -12,3 +12,12 @@ body {
   	margin-right: 10%;
     height:100%
 }
+
+h1 { 
+	text-align: center;
+}
+
+h2 { 
+    margin-left: 5%; 
+  	margin-right: 5%;
+}
