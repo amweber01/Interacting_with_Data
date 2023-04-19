@@ -6,7 +6,7 @@ html {
 
 body { 
     font: 100% Times, georgia, sans-serif;
-    font-size: 2em;
+    font-size: 4em;
     line-height: 1.8em; 
     margin-left: 10%; 
   	margin-right: 10%;
@@ -19,6 +19,6 @@ h1 {
 }
 
 p {
-  text-indent: 10cm;
+  text-indent: 15cm;
   color: #555753;
 }
