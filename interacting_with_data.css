@@ -5,9 +5,8 @@ html {
 }
 
 body { 
-    font: 100% georgia, sans-serif;
-    line-height: 1.8em;
-    color: #555753; 
+    font: 100% Times, georgia, sans-serif;
+    line-height: 1.8em; 
     margin-left: 10%; 
   	margin-right: 10%;
     height:100%
@@ -15,9 +14,10 @@ body {
 
 h1 { 
 	text-align: center;
+  color: #282927;
 }
 
-p { 
-	margin-top: 3;
-  text-indent: 20cm;
+p {
+  text-indent: 5cm;
+  color: #555753;
 }
