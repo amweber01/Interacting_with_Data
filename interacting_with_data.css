@@ -6,6 +6,7 @@ html {
 
 body { 
     font: 100% Times, georgia, sans-serif;
+    font-size: large;
     line-height: 1.8em; 
     margin-left: 10%; 
   	margin-right: 10%;
